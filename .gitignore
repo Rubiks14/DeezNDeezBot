@@ -1,0 +1,8 @@
+# virtual env
+venv/
+
+# pycache
+**/*.pyc
+
+# private keys
+**/keys.py
